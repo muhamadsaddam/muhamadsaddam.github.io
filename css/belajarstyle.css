@@ -1,0 +1,18 @@
+h1 {color:#FF0000;}
+
+h2 {color:#0066ff;}
+
+#nav	{
+	border: 5px dotted red;
+
+}
+
+#nav a {
+	text-decoration: none;
+	color:#0066ff;
+}
+
+.penjelasan{
+	font-family: Roboto;
+	font-variant: small-caps;
+}
